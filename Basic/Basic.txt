@@ -1,0 +1,52 @@
+----------->HelloWorld
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+public class is a access modifier
+public means it is a public function.
+static means it is a static function.it means you can access without object.if you donot want to add satatic befor a function you need to add a object.
+void is the return type of the function.
+System is a  class .
+println is a function whice is present inside the system class.whice help you to print some thing out to the console. 
+
+
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+access_modifier  class classname{
+
+    access_function satatic_function return_tupe main_mathod(String[] Arguments){
+
+      System_predifine_class.print_mathod("Sifat");
+
+------------->Escape Sequence
+EscapeSequence      Meaning
+    \b              backspace
+    \t               tab
+    \n              newline
+    \r             carriage return
+    \"              double quote
+    \'              single quote
+    \\                backspace
+
+------------->5 Java Phases/ execution steps
+
+1. Edit
+2. Compile
+3. Load
+4. Verify
+5. Execut
+
+               Saves Java statements
+ Text editor -------------------------> Source code(.java)
+
+ 
